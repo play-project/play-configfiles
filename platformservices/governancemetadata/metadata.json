@@ -1,0 +1,28 @@
+[
+  {
+    "topic": "TopicA",
+    "metadata": [
+      {
+        "name": "metanameA1",
+        "value": "metavalueA1"
+      },
+      {
+        "name": "metanameA2",
+        "value": "metavalueA2"
+      }
+    ]
+  },
+  {
+    "topic": "TopicB",
+    "metadata": [
+      {
+        "name": "metanameB1",
+        "value": "metavalueB1"
+      },
+      {
+        "name": "metanameB2",
+        "value": "metavalueB2"
+      }
+    ]
+  }
+]
