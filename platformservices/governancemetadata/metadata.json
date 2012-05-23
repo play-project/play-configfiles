@@ -1,10 +1,10 @@
 [
   {
-    "topic": "TopicA",
+    "topic": "FacebookCepResults",
     "metadata": [
       {
-        "name": "metanameA1",
-        "value": "metavalueA1"
+        "name": "eventtype",
+        "value": "complex"
       },
       {
         "name": "metanameA2",
