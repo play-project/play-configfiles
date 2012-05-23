@@ -1,0 +1,10 @@
+{
+  "http://streams.event-processing.org/ids/FacebookCepResults#stream" :
+    {
+		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Facebook CEP Results" } ],
+		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook CEP results." } ],
+		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "https://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+		"http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : true } ],
+		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ]
+    }
+}
