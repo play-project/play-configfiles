@@ -4,17 +4,19 @@
 		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Facebook CEP Results" } ],
 		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook CEP results." } ],
 		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "https://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ],
 		"http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : true } ],
-		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ]
+		"http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : true } ]
     },
   "http://streams.event-processing.org/ids/TaxiUCClic2Call#stream" :
     {
 		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Clic2Call Events" } ],
 		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Events to be sent to the Orange Clic2Call API." } ],
 		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
-		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ]
+		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ],
 		"http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : true } ],
-		"http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : true } ],
+		"http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : true } ]
+
     },
     "http://streams.event-processing.org/ids/TaxiUCGeoLocation#stream" :
     {
