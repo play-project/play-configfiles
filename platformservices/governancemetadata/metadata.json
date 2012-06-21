@@ -13,6 +13,19 @@
     ]
   },
   {
+    "topic": "TaxiUCClic2Call",
+    "metadata": [
+      {
+        "name": "eventtype",
+        "value": "complex"
+      },
+      {
+        "name": "dsbneedstosubscribe",
+        "value": "true"
+      }
+    ]
+  },  
+  {
     "topic": "TopicB",
     "metadata": [
       {
