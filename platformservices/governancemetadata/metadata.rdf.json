@@ -1,29 +1,226 @@
 {
+    "http://streams.event-processing.org/ids/FacebookStatusFeed#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookStatusFeed" } ]
+    },
   "http://streams.event-processing.org/ids/FacebookCepResults#stream" :
     {
-		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Facebook CEP Results" } ],
-		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook CEP results." } ],
-		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "https://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
-		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ],
-		"http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : true } ],
-		"http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : true } ]
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Facebook CEP Results" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook CEP results." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ]
     },
-  "http://streams.event-processing.org/ids/TaxiUCClic2Call#stream" :
+    "http://streams.event-processing.org/ids/PachubeFeed#stream" :
     {
-		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Clic2Call Events" } ],
-		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Events to be sent to the Orange Clic2Call API." } ],
-		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
-		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ],
-		"http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : true } ],
-		"http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : true } ]
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "https://d2npiipx5ecxt9.cloudfront.net/assets/favicon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/PachubeFeed" } ]
+    },
+    "http://streams.event-processing.org/ids/TwitterFeed#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://twitter.com/favicon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TwitterFeed" } ]
+    },
+    "http://streams.event-processing.org/ids/ESRRecom#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ESRRecom" } ]
+    },
+    "http://streams.event-processing.org/ids/SARRecom#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_blue.gif" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/SARRecom" } ]
+    },
+    "http://streams.event-processing.org/ids/VesselStream#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/VesselStream" } ]
+    },
+    "http://streams.event-processing.org/ids/ProximityInfoStream#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ProximityInfoStream" } ]
+    },
+    "http://streams.event-processing.org/ids/WorkflowEvents#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/icon_clock.gif" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/WorkflowEvents" } ]
+    },
+    "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA" } ]
+    },
+    "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP" } ]
+    },
+    "http://www.petalslink.org/dsb/topicsns/TaxiUCLocation#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocation" } ]
+    },
+    "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficInfo#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficInfo" } ]
+    },
+    "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficUnex#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficUnex" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCAvailability#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCAvailability" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCCall#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCCall" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCClic2Call#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Clic2Call Events" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Events to be sent to the Orange Clic2Call API." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ]
 
+    },
+    "http://streams.event-processing.org/ids/TaxiUCFaceBook#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCFaceBook" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCGeoLocation#stream" :
     {
-		"http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Location Updates" } ],
-		"http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location updates from mobile phones." } ],
-		"http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
-		"http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCGeoLocation" } ]
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Location Updates" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location updates from mobile phones." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCGeoLocation" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCIncomingCall#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCIncomingCall" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCOutNetwork#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCOutNetwork" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCPresence#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCPresence" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCSMSCustomerAlert#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCSMSCustomerAlert" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCTrafficJam#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTrafficJam" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCTwitter#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTwitter" } ]
+    },
+    "http://streams.event-processing.org/ids/TaxiUCUnexpected#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCUnexpected" } ]
+    },
+    "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ]
+    },
+    "http://www.mines-albi.fr/nuclearcrisisevent/situationalEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/situationalEvent" } ]
+    },
+    "http://www.mines-albi.fr/nuclearcrisisevent/activityEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/activityEvent" } ]
+    },
+    "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent" } ]
+    },
+    "http://www.mines-albi.fr/nuclearcrisisevent/consequenceEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "" } ],
+        "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/consequenceEvent" } ]
     }
-	
 }
