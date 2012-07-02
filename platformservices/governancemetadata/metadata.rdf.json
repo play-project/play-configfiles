@@ -1,4 +1,3 @@
-[
 {
     "http://streams.event-processing.org/ids/FacebookStatusFeed#stream" :
     {
@@ -249,4 +248,3 @@
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     }
 }
-]
