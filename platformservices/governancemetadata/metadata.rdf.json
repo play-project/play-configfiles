@@ -5,6 +5,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook Wall updates." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookStatusFeed" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/FacebookCepResults#stream" :
@@ -13,6 +14,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Facebook CEP results." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/FacebookCepResults" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -23,6 +25,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Pachube events." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "https://d2npiipx5ecxt9.cloudfront.net/assets/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/PachubeFeed" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TwitterFeed#stream" :
@@ -31,6 +34,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of Twitter events." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://twitter.com/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TwitterFeed" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/ESRRecom#stream" :
@@ -39,6 +43,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of recommendations from the ESR service." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ESRRecom" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/SARRecom#stream" :
@@ -47,6 +52,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "A stream of recommendations from the SAR service." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_blue.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/SARRecom" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/VesselStream#stream" :
@@ -55,6 +61,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "AIS events regarding vessel location and other information." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/VesselStream" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/ProximityInfoStream#stream" :
@@ -63,6 +70,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "AIS events regarding vessel proximity." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ProximityInfoStream" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/WorkflowEvents#stream" :
@@ -71,36 +79,42 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Event from ICCS' aop4bpmn2 engine as BPMN processes are executed." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/icon_clock.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/WorkflowEvents" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA#stream" :
     {
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP#stream" :
     {
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.petalslink.org/dsb/topicsns/TaxiUCLocation#stream" :
     {
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocation" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficInfo#stream" :
     {
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficInfo" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficUnex#stream" :
     {
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCLocTraficUnex" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCAvailability#stream" :
@@ -109,6 +123,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Updates about availability of people and taxis." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCAvailability" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCCall#stream" :
@@ -117,6 +132,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Call events from mobile phones." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCCall" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCClic2Call#stream" :
@@ -125,6 +141,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Events to be sent to the Orange Clic2Call API." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -136,6 +153,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Facebook events created on mobile phones." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCFaceBook" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCGeoLocation#stream" :
@@ -144,6 +162,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location updates from mobile phones." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCGeoLocation" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCIncomingCall#stream" :
@@ -152,6 +171,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Incoming call notifications created on mobile phones." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCIncomingCall" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCOutNetwork#stream" :
@@ -159,6 +179,7 @@
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco out-of-network Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCOutNetwork" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCPresence#stream" :
@@ -167,6 +188,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Presence updates from taxis or people." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCPresence" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCSMSCustomerAlert#stream" :
@@ -175,6 +197,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Alert about new taxi customers." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCSMSCustomerAlert" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCTrafficJam#stream" :
@@ -183,6 +206,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Traffic radio updates." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTrafficJam" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCTwitter#stream" :
@@ -191,6 +215,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Twitter events created on mobile phones." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTwitter" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/TaxiUCUnexpected#stream" :
@@ -199,6 +224,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Unexpected events from Taxis such as flat tires, accidents, ..." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCUnexpected" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed#stream" :
@@ -207,6 +233,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location events in proximity to each other." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -217,6 +244,7 @@
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Recommendations to subscribe to telco-related streams." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCESRRecom" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/situationalEvent#stream" :
@@ -224,6 +252,7 @@
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Situational Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/situationalEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/activityEvent#stream" :
@@ -231,6 +260,7 @@
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Activity Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/activityEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent#stream" :
@@ -238,6 +268,7 @@
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Resources Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/consequenceEvent#stream" :
@@ -245,6 +276,7 @@
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Consequence Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/consequenceEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     }
 }
