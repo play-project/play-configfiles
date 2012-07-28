@@ -121,7 +121,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Availability Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Updates about availability of people and taxis." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCAvailability" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -130,7 +130,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Call Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Call events from mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCCall" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -139,7 +139,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Clic2Call Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Events to be sent to the Orange Clic2Call API." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCClic2Call" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
@@ -151,7 +151,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Facebook Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Facebook events created on mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCFaceBook" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -160,7 +160,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Location Updates" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location updates from mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCGeoLocation" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -169,7 +169,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco incoming Calls" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Incoming call notifications created on mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCIncomingCall" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -177,7 +177,7 @@
     "http://streams.event-processing.org/ids/TaxiUCOutNetwork#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco out-of-network Events" } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCOutNetwork" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -186,7 +186,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Presence Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Presence updates from taxis or people." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCPresence" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -195,7 +195,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Taxi Customer Alerts" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Alert about new taxi customers." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCSMSCustomerAlert" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -204,7 +204,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Traffic Jams" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Traffic radio updates." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTrafficJam" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -213,7 +213,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Twitter Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Twitter events created on mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCTwitter" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -222,7 +222,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Taxi unexpected Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Unexpected events from Taxis such as flat tires, accidents, ..." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCUnexpected" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
@@ -231,7 +231,7 @@
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Contextualized Latitude Events" } ],
         "http://purl.org/dc/elements/1.1/desciption": [ { "type" : "literal", "value" : "Location events in proximity to each other." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://orange.com/sirius/logos_mail/orange_icon.ico" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
