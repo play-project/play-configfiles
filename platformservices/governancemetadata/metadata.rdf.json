@@ -288,5 +288,15 @@
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/consequenceEvent" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
+    },
+    "http://www.mines-albi.fr/nuclearcrisisevent/visualizationEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Visualization Events" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/visualizationEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     }
 }
