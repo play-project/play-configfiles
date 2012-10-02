@@ -255,6 +255,14 @@
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
+    "http://www.mines-albi.fr/nuclearcrisisevent/situationalAlertEvent#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Situational Alert Events" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/situationalAlertEvent" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
+    },
     "http://www.mines-albi.fr/nuclearcrisisevent/activityEvent#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Activity Events" } ],
