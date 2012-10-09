@@ -234,8 +234,6 @@
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCAnswer" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
-        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
-        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
     "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed#stream" :
