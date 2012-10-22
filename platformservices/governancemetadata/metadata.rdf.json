@@ -100,24 +100,6 @@
         "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
-    "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA#stream" :
-    {
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
-        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMA" } ],
-        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
-        "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCIMA" } ],
-        "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/" } ],
-        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
-    },
-    "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP#stream" :
-    {
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://i911.photobucket.com/albums/ac319/radiotaxi_xanthis/favicontaxi.png" } ],
-        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/TaxiUCIMP" } ],
-        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "dsb" } ],
-        "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCIMP" } ],
-        "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://www.petalslink.org/dsb/topicsns/" } ],
-        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
-    },
     "http://streams.event-processing.org/ids/TaxiUCCall#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Call Events" } ],
