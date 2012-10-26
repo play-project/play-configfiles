@@ -184,7 +184,7 @@
     },
     "http://streams.event-processing.org/ids/TaxiUCESRRecom#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Event Subscription Recommendations" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Recommendations" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Recommendations to subscribe to telco-related streams." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCESRRecom" } ],
