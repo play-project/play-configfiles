@@ -136,6 +136,17 @@
         "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
+    "http://streams.event-processing.org/ids/Friend_Geo_Event#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Friend Location Updates" } ],
+        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Location updates by friends from mobile phones." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/Friend_Geo_Event" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
+        "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCGeoLocation" } ],
+        "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
+    },    
     "http://streams.event-processing.org/ids/TaxiUCGeoLocation#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Location Updates" } ],
@@ -193,6 +204,19 @@
         "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
+     "http://streams.event-processing.org/ids/TaxiUCESRRecomDcep#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Recommendations from DCEP" } ],
+        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Recommendations issued by DCEP." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
+        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCESRRecomDcep" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
+        "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCESRRecomDcep" } ],
+        "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
+    },   
     "http://www.mines-albi.fr/nuclearcrisisevent/situationalEvent#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Situational Events" } ],
