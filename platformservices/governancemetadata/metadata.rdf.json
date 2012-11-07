@@ -47,7 +47,7 @@
     },
     "http://streams.event-processing.org/ids/ESRRecom#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Event Subscription Recommendations" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Event Subscription Recs" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "A stream of recommendations from the ESR service." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ESRRecom" } ],
@@ -58,7 +58,7 @@
     },
     "http://streams.event-processing.org/ids/SARRecom#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Service Adaptation Recommendations" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Service Adaptation Recs" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "A stream of recommendations from the SAR service." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_blue.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/SARRecom" } ],
@@ -69,7 +69,7 @@
     },
     "http://streams.event-processing.org/ids/VesselStream#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Vessel Information" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Vessel Info" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "AIS events regarding vessel location and other information." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/VesselStream" } ],
@@ -80,7 +80,7 @@
     },
     "http://streams.event-processing.org/ids/ProximityInfoStream#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Vessel Proximity Information" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Vessel Proximity Info" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "AIS events regarding vessel proximity." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.kinetic.co.uk/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ProximityInfoStream" } ],
@@ -182,7 +182,7 @@
     },
     "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Contextualized Latitude Events" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Contextualized Latitude" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Location events in proximity to each other." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/ContextualizedLatitudeFeed" } ],
@@ -206,7 +206,7 @@
     },
      "http://streams.event-processing.org/ids/TaxiUCESRRecomDcep#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Recommendations from DCEP" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco DCEP Recs" } ],
         "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Recommendations issued by DCEP." } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.famfamfam.com/lab/icons/mini/icons/comment_yellow.gif" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCESRRecomDcep" } ],
@@ -229,7 +229,7 @@
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/situationalAlertEvent#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Situational Alert Events" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Situational Alerts" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/situationalAlertEvent" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
@@ -251,7 +251,7 @@
     },
     "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent#stream" :
     {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Resources Events" } ],
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Crisis Resource Events" } ],
         "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/nuclear.ico" } ],
         "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://www.mines-albi.fr/nuclearcrisisevent/resourcesEvent" } ],
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "nuclear" } ],
