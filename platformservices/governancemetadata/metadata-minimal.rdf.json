@@ -125,17 +125,6 @@
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
 
     },
-    "http://streams.event-processing.org/ids/TaxiUCFaceBook#stream" :
-    {
-        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Facebook Events" } ],
-        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "Facebook events created on mobile phones." } ],
-        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://www.orange.com/extension/orange/design/orangecom/images/favicon.ico" } ],
-        "http://www.play-project.eu/xml/ns/topic":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/TaxiUCFaceBook" } ],
-        "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
-        "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCFaceBook" } ],
-        "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
-        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
-    },
     "http://streams.event-processing.org/ids/TaxiUCGeoLocation#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Telco Location Updates" } ],
