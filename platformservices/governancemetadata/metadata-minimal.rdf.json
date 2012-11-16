@@ -145,6 +145,8 @@
         "http://www.play-project.eu/xml/ns/topic/prefix":  [ { "type" : "literal" , "value" : "s" } ],
         "http://www.play-project.eu/xml/ns/topic/name":  [ { "type" : "literal" , "value" : "TaxiUCGeoLocation" } ],
         "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
+        "http://www.play-project.eu/xml/ns/complexEvents":  [ { "type" : "literal" , "value" : "true" } ],
+        "http://www.play-project.eu/xml/ns/dsbneedstosubscribe":  [ { "type" : "literal" , "value" : "true" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },  
     "http://streams.event-processing.org/ids/TaxiUCOutNetwork#stream" :
