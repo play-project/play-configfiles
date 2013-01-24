@@ -45,6 +45,17 @@
         "http://www.play-project.eu/xml/ns/topic/ns":  [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
     },
+    "http://streams.event-processing.org/ids/PersonalMonitoring#stream" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Personal Monitoring" } ],
+        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "A stream of Personal Monitoring events from a SmartPhone app." } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://demo.play-project.eu/streamicons/cardio.ico" } ],
+        "http://www.play-project.eu/xml/ns/topic": [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/PersonalMonitoring" } ],
+        "http://www.play-project.eu/xml/ns/topic/prefix": [ { "type" : "literal" , "value" : "s" } ],
+        "http://www.play-project.eu/xml/ns/topic/name": [ { "type" : "literal" , "value" : "PersonalMonitoring" } ],
+        "http://www.play-project.eu/xml/ns/topic/ns": [ { "type" : "uri" , "value" : "http://streams.event-processing.org/ids/" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://events.event-processing.org/types/Stream" } ]
+    },    
     "http://streams.event-processing.org/ids/ESRRecom#stream" :
     {
         "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Event Subscription Recommendations" } ],
