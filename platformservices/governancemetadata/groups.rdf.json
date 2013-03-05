@@ -1,0 +1,16 @@
+{
+    "http://groups.event-processing.org/id/Public#group" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "Public Group" } ],
+        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "The Play public group" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://rdfs.org/sioc/ns#Usergroup" } ]
+    },
+    "http://groups.event-processing.org/id/PlayFP7#group" :
+    {
+        "http://purl.org/dc/elements/1.1/title": [ { "type" : "literal", "value" : "PlayFP7 group" } ],
+        "http://purl.org/dc/elements/1.1/description": [ { "type" : "literal", "value" : "The Play FP7 group" } ],
+        "http://www.w3.org/2002/06/xhtml2/icon": [ { "type" : "uri", "value" : "http://s-static.ak.facebook.com/rsrc.php/yi/r/q9U99v3_saj.ico" } ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://rdfs.org/sioc/ns#Usergroup" } ]
+    }
+}
