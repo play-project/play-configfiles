@@ -1,0 +1,16 @@
+{
+  "http://permissions.event-processing.org/id/0000001#acl" :
+  {
+    "http://www.w3.org/ns/auth/acl#accessTo": [ { "type" : "uri", "value" : "http://streams.event-processing.org/ids/MyPersonalStream" } ],
+    "http://www.w3.org/ns/auth/acl#agent": [ { "type" : "uri", "value" : "http://groups.event-processing.org/id/MyGroupB#group" } ],
+    "http://www.w3.org/ns/auth/acl#mode": [ { "type" : "uri", "value" : "http://docs.oasis-open.org/wsn/bw-2/NotificationConsumer/Notify" }, { "type" : "uri", "value" : "http://docs.oasis-open.org/wsn/bw-2/NotificationProducer/SubscribeRequest" }, { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Write" }, { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Read" } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Authorization" } ]
+  },
+  "http://permissions.event-processing.org/id/0000002#acl" :
+  {
+    "http://www.w3.org/ns/auth/acl#accessTo": [ { "type" : "uri", "value" : "http://streams.event-processing.org/ids/MyOtherPersonalStream" } ],
+    "http://www.w3.org/ns/auth/acl#agent": [ { "type" : "uri", "value" : "http://groups.event-processing.org/id/MyGroupA#group" } ],
+    "http://www.w3.org/ns/auth/acl#mode": [ { "type" : "uri", "value" : "http://docs.oasis-open.org/wsn/bw-2/NotificationConsumer/Notify" }, { "type" : "uri", "value" : "http://docs.oasis-open.org/wsn/bw-2/NotificationProducer/SubscribeRequest" }, { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Write" }, { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Read" } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [ { "type" : "uri", "value" : "http://www.w3.org/ns/auth/acl#Authorization" } ]
+  }
+}
