@@ -1,0 +1,36 @@
+{
+   "accounts":[
+      {
+         "provider":"github",
+         "login":"chamerling",
+         "accessToken":"AZERTY",
+         "fullName":"Christophe Hamerling",
+         "email":"christophe.hamerling@ow2.org",
+         "avatarURL":"https://secure.gravatar.com/avatar/b6c497af6bc43da74f94095683908ca7?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"
+      },
+   ],
+   "apitoken":"1234567890",
+   "email":"christophe.hamerling@playfp7.eu",
+   "fullName":"Christophe Hamerling",
+   "groups":[
+      {
+         "uri":"http://groups.event-processing.org/id/PlayFP7",
+         "name":"group",
+         "date":"1365688950297"
+      }
+   ],
+   "login":"chamerling",
+   "password":"hashme()",
+   "resources":[
+      {
+         "uri":"http://subscriptions.play.ow2.org/a91e7552-06df-4101-856f-2a1843c2f7a9",
+         "name":"subscription",
+         "date":"1365503183171"
+      },
+      {
+         "uri":"http://patterns.play.ow2.org/98325b4b-703d-4283-988b-d7150ae69d93",
+         "name":"pattern",
+         "date":"1365503191790"
+      }
+   ]
+}
